@@ -1,5 +1,6 @@
 {
   "dependencies": {
+<<<<<<< HEAD
     "com.unity.ai.navigation": "1.1.4",
     "com.unity.collab-proxy": "2.0.7",
     "com.unity.feature.development": "1.0.1",
@@ -13,6 +14,10 @@
     "com.unity.ugui": "1.0.0",
     "com.unity.visualscripting": "1.9.0",
     "com.veriorpies.parrelsync": "https://github.com/VeriorPies/ParrelSync.git?path=/ParrelSync",
+=======
+    "com.unity.netcode.gameobjects": "1.6.0",
+    "com.unity.ugui": "1.0.0",
+>>>>>>> ac5f16e4536f73d0b73c86b634f6d835f4eecb6e
     "com.unity.modules.ai": "1.0.0",
     "com.unity.modules.androidjni": "1.0.0",
     "com.unity.modules.animation": "1.0.0",

@@ -1,5 +1,6 @@
 {
   "dependencies": {
+<<<<<<< HEAD
     "com.unity.ai.navigation": {
       "version": "1.1.4",
       "depth": 0,
@@ -11,6 +12,10 @@
     },
     "com.unity.burst": {
       "version": "1.8.7",
+=======
+    "com.unity.burst": {
+      "version": "1.8.8",
+>>>>>>> ac5f16e4536f73d0b73c86b634f6d835f4eecb6e
       "depth": 2,
       "source": "registry",
       "dependencies": {
@@ -18,6 +23,7 @@
       },
       "url": "https://packages.unity.com"
     },
+<<<<<<< HEAD
     "com.unity.collab-proxy": {
       "version": "2.0.7",
       "depth": 0,
@@ -25,6 +31,8 @@
       "dependencies": {},
       "url": "https://packages.unity.com"
     },
+=======
+>>>>>>> ac5f16e4536f73d0b73c86b634f6d835f4eecb6e
     "com.unity.collections": {
       "version": "1.2.4",
       "depth": 2,
@@ -35,6 +43,7 @@
       },
       "url": "https://packages.unity.com"
     },
+<<<<<<< HEAD
     "com.unity.editorcoroutines": {
       "version": "1.0.0",
       "depth": 1,
@@ -45,10 +54,16 @@
     "com.unity.ext.nunit": {
       "version": "1.0.6",
       "depth": 1,
+=======
+    "com.unity.ext.nunit": {
+      "version": "1.0.6",
+      "depth": 4,
+>>>>>>> ac5f16e4536f73d0b73c86b634f6d835f4eecb6e
       "source": "registry",
       "dependencies": {},
       "url": "https://packages.unity.com"
     },
+<<<<<<< HEAD
     "com.unity.feature.development": {
       "version": "1.0.1",
       "depth": 0,
@@ -98,6 +113,8 @@
       },
       "url": "https://packages.unity.com"
     },
+=======
+>>>>>>> ac5f16e4536f73d0b73c86b634f6d835f4eecb6e
     "com.unity.mathematics": {
       "version": "1.2.6",
       "depth": 2,
@@ -105,6 +122,7 @@
       "dependencies": {},
       "url": "https://packages.unity.com"
     },
+<<<<<<< HEAD
     "com.unity.multiplayer.samples.coop": {
       "version": "https://github.com/Unity-Technologies/com.unity.multiplayer.samples.coop.git?path=/Packages/com.unity.multiplayer.samples.coop",
       "depth": 0,
@@ -130,6 +148,8 @@
       },
       "url": "https://packages.unity.com"
     },
+=======
+>>>>>>> ac5f16e4536f73d0b73c86b634f6d835f4eecb6e
     "com.unity.netcode.gameobjects": {
       "version": "1.6.0",
       "depth": 0,
@@ -147,6 +167,7 @@
       "dependencies": {},
       "url": "https://packages.unity.com"
     },
+<<<<<<< HEAD
     "com.unity.nuget.newtonsoft-json": {
       "version": "3.2.1",
       "depth": 2,
@@ -232,6 +253,11 @@
     "com.unity.test-framework": {
       "version": "1.1.33",
       "depth": 0,
+=======
+    "com.unity.test-framework": {
+      "version": "1.1.33",
+      "depth": 3,
+>>>>>>> ac5f16e4536f73d0b73c86b634f6d835f4eecb6e
       "source": "registry",
       "dependencies": {
         "com.unity.ext.nunit": "1.0.6",
@@ -240,6 +266,7 @@
       },
       "url": "https://packages.unity.com"
     },
+<<<<<<< HEAD
     "com.unity.testtools.codecoverage": {
       "version": "1.2.4",
       "depth": 1,
@@ -271,6 +298,8 @@
       },
       "url": "https://packages.unity.com"
     },
+=======
+>>>>>>> ac5f16e4536f73d0b73c86b634f6d835f4eecb6e
     "com.unity.transport": {
       "version": "1.3.4",
       "depth": 1,
@@ -291,6 +320,7 @@
         "com.unity.modules.imgui": "1.0.0"
       }
     },
+<<<<<<< HEAD
     "com.unity.visualscripting": {
       "version": "1.9.0",
       "depth": 0,
@@ -308,6 +338,8 @@
       "dependencies": {},
       "hash": "141b4e1e31966242a6fb7c495b52ac3d1221bc75"
     },
+=======
+>>>>>>> ac5f16e4536f73d0b73c86b634f6d835f4eecb6e
     "com.unity.modules.ai": {
       "version": "1.0.0",
       "depth": 0,

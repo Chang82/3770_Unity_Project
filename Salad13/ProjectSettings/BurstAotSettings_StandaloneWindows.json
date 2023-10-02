@@ -5,7 +5,12 @@
     "EnableOptimisations": true,
     "EnableSafetyChecks": false,
     "EnableDebugInAllBuilds": false,
+<<<<<<< HEAD
     "UsePlatformSDKLinker": false,
+=======
+    "DebugDataKind": 1,
+    "EnableArmv9SecurityFeatures": false,
+>>>>>>> ac5f16e4536f73d0b73c86b634f6d835f4eecb6e
     "CpuMinTargetX32": 0,
     "CpuMaxTargetX32": 0,
     "CpuMinTargetX64": 0,
